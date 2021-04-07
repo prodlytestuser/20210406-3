@@ -1,0 +1,23 @@
+"Guid","CurrencyIsoCode","Name","SBQQ__EffectiveDate__c","SBQQ__LowerBound__c","SBQQ__OriginalBlockPrice__c","SBQQ__PriceBook2__c","SBQQ__Price__c","SBQQ__Product__c","SBQQ__UpperBound__c"
+0c3a7b41-2c9f-42c1-b7cd-3a95add92cf2,AUD,2000 Reports,"#N/A",2.0,"#N/A","#N/A",2502.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,3.0
+129d81ce-1b95-441a-a480-5664612f5c4b,EUR,2000 Reports,"#N/A",2.0,"#N/A","#N/A",1710.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,3.0
+3c7f468d-2849-4aec-9908-4c0d5e1c9e59,USD,2000 Reports,"#N/A",2.0,"#N/A","#N/A",1800.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,3.0
+3d4c68f7-2b37-471a-9111-2fb036b2ccbc,AUD,1000 Reports,"#N/A",1.0,"#N/A","#N/A",1390.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,2.0
+44b9ffac-ebe7-4815-90cf-12658c38f1f4,USD,2,"#N/A",2.0,"#N/A",fa5b3b37-5077-4ec2-9ae5-325e5d4b3f54,300.0,"#N/A","#N/A"
+4e01b01e-5356-4a86-9fdd-81734bc05a87,GBP,3000 Reports,"#N/A",3.0,"#N/A","#N/A",2080.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,4.0
+4e2e4f97-6e4b-4abd-95ed-bb9e5e103789,USD,1,"#N/A",1.0,"#N/A",fa5b3b37-5077-4ec2-9ae5-325e5d4b3f54,100.0,"#N/A",2.0
+5a4f6c20-765e-444f-b241-e0cd56671206,EUR,1000 Reports,"#N/A",1.0,"#N/A","#N/A",950.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,2.0
+5df6cb7e-2234-456a-9a81-e3729b2ff96a,GBP,5000 Reports,"#N/A",5.0,"#N/A","#N/A",3360.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,999999.0
+770588d8-f522-4f9a-aab7-312eb344024b,EUR,3000 Reports,"#N/A",3.0,"#N/A","#N/A",2470.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,4.0
+88e21a5d-cee8-4d40-9a0a-6586a452aba7,EUR,5000 Reports,"#N/A",5.0,"#N/A","#N/A",3990.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,999999.0
+a772b29b-a933-498b-8b58-6bc790dcf639,GBP,2000 Reports,"#N/A",2.0,"#N/A","#N/A",1440.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,3.0
+bef1d28e-6754-4f01-a481-096bdf710de4,GBP,4000 Reports,"#N/A",4.0,"#N/A","#N/A",2720.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,5.0
+c14e4e77-7537-4cdc-afb1-f49bec2dc3cb,USD,4000 Reports,"#N/A",4.0,"#N/A","#N/A",3400.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,5.0
+c70718c5-8c92-42c1-a545-e7d70fc68344,GBP,1000 Reports,"#N/A",1.0,"#N/A","#N/A",800.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,2.0
+d0904fac-a835-427c-b5e9-a1558c5812d9,AUD,3000 Reports,"#N/A",3.0,"#N/A","#N/A",3614.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,4.0
+d12b1434-ac4f-4ca7-aafd-75dea06db301,EUR,4000 Reports,"#N/A",4.0,"#N/A","#N/A",3230.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,5.0
+d7cc6ad2-434e-41f6-80c5-278816869d09,USD,5000 Reports,"#N/A",5.0,"#N/A","#N/A",4200.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,999999.0
+e7ae4bdf-abca-493e-88d6-3bce07ced7d1,AUD,5000 Reports,"#N/A",5.0,"#N/A","#N/A",5838.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,999999.0
+f623a580-82b7-42a2-a0f8-bafbb28bce8f,USD,1000 Reports,"#N/A",1.0,"#N/A","#N/A",1000.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,2.0
+f8c396f4-48b0-4a26-8a79-11a4be33ab60,USD,3000 Reports,"#N/A",3.0,"#N/A","#N/A",2600.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,4.0
+f9fdb6ef-4dad-45a3-995e-24a4083c9491,AUD,4000 Reports,"#N/A",4.0,"#N/A","#N/A",4726.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,5.0

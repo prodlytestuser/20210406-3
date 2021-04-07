@@ -1,0 +1,4 @@
+"Guid","CurrencyIsoCode","Description","IsActive","Name"
+0cb252d7-14d2-47a4-97a0-e6508256d203,USD,Check if this works,true,CEID Price Book
+2007d5f3-6121-4b54-abfd-215a9b71f465,USD,"#N/A",true,Standard
+fa5b3b37-5077-4ec2-9ae5-325e5d4b3f54,USD,"#N/A",true,Standard Price Book
