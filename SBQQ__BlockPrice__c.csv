@@ -1,4 +1,4 @@
-"Guid","CurrencyIsoCode","Name","SBQQ__EffectiveDate__c","SBQQ__LowerBound__c","SBQQ__OriginalBlockPrice__c","SBQQ__PriceBook2__c","SBQQ__Price__c","SBQQ__Product__c","SBQQ__UpperBound__c"
+"Guid"
 0c3a7b41-2c9f-42c1-b7cd-3a95add92cf2,AUD,2000 Reports,"#N/A",2.0,"#N/A","#N/A",2502.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,3.0
 129d81ce-1b95-441a-a480-5664612f5c4b,EUR,2000 Reports,"#N/A",2.0,"#N/A","#N/A",1710.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,3.0
 3c7f468d-2849-4aec-9908-4c0d5e1c9e59,USD,2000 Reports,"#N/A",2.0,"#N/A","#N/A",1800.0,c74d1b2a-3220-4d50-9c1f-0541a7eec1b0,3.0
